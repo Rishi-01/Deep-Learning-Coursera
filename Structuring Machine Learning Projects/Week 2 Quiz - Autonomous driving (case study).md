@@ -2,6 +2,7 @@
 
 1. You are just getting started on this project. What is the first thing you do? Assume each of the steps below would take about an equal amount of time (a few days).
 
+
     - Spend a few days training a basic model and see what mistakes it makes.
     
     > As discussed in lecture, applied ML is a highly iterative process. If you train a basic model and carry out error analysis (see what mistakes it makes) it will help point you in more promising directions.
